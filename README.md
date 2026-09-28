@@ -36,7 +36,7 @@ Google Gemini Embeddings
           |
           v
    Google Gemini LLM
-    gemini-2.5-flash
+    gemini-3.8-flash
           |
           v
       Final Answer
@@ -81,6 +81,7 @@ Harry-Potter-RAG/
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
+├── Screenshot 2026-09-28 154259.png
 └── README.md
 ```
 
