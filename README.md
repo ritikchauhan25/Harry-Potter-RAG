@@ -84,6 +84,12 @@ Harry-Potter-RAG/
 └── README.md
 ```
 
+## Demo
+
+The application provides a Gradio-based chatbot interface for asking questions about the supplied Harry Potter narrative document.
+
+![Harry Potter RAG Chatbot Demo](Screenshot%202026-09-28%20154259.png)
+
 ## Setup
 
 ### 1. Clone the repository
