@@ -1,0 +1,19 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local databases / generated files
+chroma_db/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
