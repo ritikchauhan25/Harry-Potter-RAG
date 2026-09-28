@@ -89,7 +89,7 @@ Harry-Potter-RAG/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Harry-Potter-RAG.git
+git clone https://github.com/ritikchauhan25/Harry-Potter-RAG.git
 cd Harry-Potter-RAG
 ```
 
